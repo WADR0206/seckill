@@ -1,6 +1,6 @@
 # 网站说明
 ### 秒杀系统后端开发（java）
-
+### [项目地址](https://github.com/WADR0206/seckill.git0)
 * 后端技术选型
   1. 使用springboot进行多模块设计
   2. 使用mybatis作为orm框架
@@ -13,4 +13,5 @@
   9. 使用jetty运行项目
   
  * 前端技术选型
-  1. bootstrap
+ 1. bootstrap
+ 2. js
