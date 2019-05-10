@@ -1,0 +1,11 @@
+server:
+  context-path: /seckill
+  port: 8090
+spring:
+  datasource:
+    username: root
+    password: chl520
+    url: jdbc:mysql://${spring.datasource.host}:${spring.datasource.port}/${spring.datasource.dbName}?useUnicode=true&useSSL=true
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
